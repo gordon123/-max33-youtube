@@ -1,6 +1,6 @@
 # -max33-youtube<br>
-Youtuber คนไทย คงไม่มีใครไม่รู้จัก <br>
-###ดาวโหลด zip หรือ ใช้ Git clone repo นี้ก็ได้  <br>
+Youtuber คนไทย คงไม่มีใครไม่รู้จัก spam bot max33 ตัวนี้ <br>
+### **ดาวโหลด zip (แค่ ล้าน คำแรก)** หรือ ใช้ **Git clone repo นี้ก็ได้ (จะได้หมด 11 ล้านคำ)** <br>
 ---- Youtube studio ---- <br>
 ----- กด เซ็ตติ้ง ฟันเฟือง ----<br>
 ![image](https://github.com/user-attachments/assets/73cc1fe3-2ee8-412c-b651-d487c66253ff)<br>
